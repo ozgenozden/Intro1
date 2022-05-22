@@ -8,7 +8,6 @@ namespace DegerVeReferansTipler
         {
             Console.WriteLine("Hello World!");
 
-
         }
     }
 }
